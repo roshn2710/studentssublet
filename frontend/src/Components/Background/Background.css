@@ -1,0 +1,14 @@
+.Background .background-container {
+    
+    background-color: #fff;
+    box-shadow: 0px 4px 30px rgba(49, 49, 49, 0.25);
+    border-radius: 4px;
+    height: 768px;
+    margin: 0 auto;
+    margin-top: 45px;
+    width: 95%;
+   
+}
+.Background {
+     width: 100%;
+}

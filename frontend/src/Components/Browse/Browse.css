@@ -1,0 +1,155 @@
+.Browse {
+    font-family: Aktiv Grotesk;
+    height: 100%;
+}
+.Browse .filterBox {
+    margin-left: 40px;
+    background-color: #222F9C;
+    border-radius: 7px;
+    padding: 15px 20px;
+    font-size: 18px;
+    line-height: 23px;
+    color: white
+ 
+}
+.Browse .filterBox span {
+    margin-right: 20px;
+}
+.Browse .filterHeader {
+    padding: 40px 0;
+    border-bottom: 2px solid lightgrey;
+}
+.Browse .wrapper {
+    padding: 0;
+    height: calc(100% - 71px);
+}
+.Browse .row {
+    padding-left: 0;
+    padding-right: 0;
+    height: calc(100% - 153px)
+}
+.Browse .filterMenu {
+    padding-left: 50px
+}
+.Browse .filterMenu .title{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 51px;
+
+
+}
+.Browse .filterMenu .filter {
+    padding-left: 40px
+}
+.Browse .filterMenu .group {
+    margin-top: 30px;
+}
+.Browse .filterMenu .group .groupHeader {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+}
+.Browse .semester {
+   font-size: 18px;
+   line-height: 23px;
+   margin-left: 10px
+}
+.Browse .firstSelection {
+   background-color: #222F9C; 
+}
+.Browse .selection {
+    width: 100%;
+    margin-top: 5px;
+}
+.Browse .selections {
+    padding-left: 15px
+}
+.Browse .radio {
+    margin-top: -6px
+}
+
+
+.Browse .subsection {
+    padding-left: 10px;
+    margin-top: 10px
+    
+}
+.Browse .filterDropdown {
+    background: #E0E0E0;
+    border-radius: 7px;
+    font-size: 18px;
+    line-height: 23px;
+    width: 232px;
+    padding: 15px 20px;
+}
+.Browse .posts {
+    background-color: #F2F2F2;
+    padding-top: 20px;
+    
+}
+.Browse .postContainer {
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(49, 49, 49, 0.25);
+    border-radius: 4px;
+    height: 161px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.Browse .postImage {
+    height: 161px;
+    border-radius: 4px 0px 0px 4px;
+    width: 177px;
+    border-right: 1px solid lightgray
+}
+.Browse .postInfo {
+    margin-left: 10px;
+    padding-top: 20px;
+    width: 281px;
+}
+.Browse .postInfo span{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    display: block;
+    margin-bottom: 30px;
+}
+.Browse .postInfo p {
+    color: #828282;
+    font-size: 14px;
+    line-height: 18px;
+}
+.Browse .postExtension span {
+    display: block;
+}
+.Browse .postExtension {
+    padding-top: 20px;
+    margin-right: 20px;
+
+}
+.Browse .postExtension .price {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+}
+.Browse .postExtension .address {
+    font-size: 12px;
+    line-height: 15px;
+}
+.Browse .postExtension .comments{
+    color :#222F9C;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 20px
+}
+.Browse a {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+.Browse a.nostyle:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}

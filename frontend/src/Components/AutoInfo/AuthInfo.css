@@ -1,0 +1,19 @@
+.AuthInfo {
+    font-family: Aktiv Grotesk;
+    padding-top: 120px;
+    height: 100%;
+}
+.AuthInfo .information {
+    font-style:  normal;
+    font-weight: normal;
+    font-size: 34px;
+    width: 442px;
+    height: 152px;
+    margin-left: 30px;
+    line-height: 44px;
+
+}
+.AuthInfo .informationImage {
+    width: 465px;
+    height: 331px;
+}

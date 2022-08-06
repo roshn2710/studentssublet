@@ -1,0 +1,57 @@
+.PostListing {
+    font-family: Aktiv Grotesk;
+}
+.PostListing .header {
+    font-weight: 500;
+    display: block;
+    font-size: 40px;
+    line-height: 51px;
+
+    height: 64px;
+    margin-bottom: 20px;
+}
+
+.PostListing .sep {
+    border-right: 0.5px solid #000000
+}
+
+.PostListing label  {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.PostListing .close {
+    font-size: 3rem;
+}
+
+.PostListing .form-field{
+    border-radius: 7px;
+    width: 60%;
+   background-color: #E0E0E0;
+   outline: none;
+   border: none;
+   height: 46px;
+   padding-left: 10px
+}
+
+.PostListing .form-group {
+    margin-bottom: 30px;
+}
+
+.PostListing .form-check-label {
+    font-weight: 300;
+}
+.PostListing .postPosting-button{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    background-color: #222F9C;
+    border-radius: 7px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    border: none;
+    padding: 5px 25px;
+}

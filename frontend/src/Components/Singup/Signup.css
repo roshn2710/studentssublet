@@ -1,0 +1,69 @@
+.Signup .row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 100%;
+}
+.Signup {
+    font-family: Aktiv Grotesk;
+}
+.Signup .header {
+    font-weight: 500;
+    display: block;
+    font-size: 40px;
+    line-height: 51px;
+
+    height: 64px;
+    margin-bottom: 20px;
+}
+.Signup .sep {
+    border-left: 0.5px solid #000000
+}
+.Signup .signup-form {
+    padding-left: 10px;
+    padding-top: 40px
+}
+.Signup label  {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 36px;
+    display: block;
+    margin-bottom: 15px;
+}
+.Signup .form-field{
+    border-radius: 7px;
+    width: 60%;
+   background-color: #E0E0E0;
+   outline: none;
+   border: none;
+   height: 46px;
+   padding-left: 10px
+}
+.Signup .form-group {
+    margin-bottom: 30px;
+}
+.Signup .last {
+    margin-bottom: 10px!important;
+}
+.loginlink{
+    text-decoration: underline;
+    display: block;
+    margin-bottom: 30px;
+}
+
+
+.signup-button {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 46px;
+    background-color: #222F9C;
+    border-radius: 7px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    border: none;
+    padding: 5px 25px;
+    
+
+}
+.Signup .action {
+    width: 60%
+}
